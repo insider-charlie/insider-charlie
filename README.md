@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Ph0enixxx
-- 👀 I’m interested in Reverse-Engineering, Backend and Anti-Cheat
-- 🌱 I’m currently learning Auto.js and SRE
-- 📫 How to reach me: radishxtop@gmail.com
+Hi, I’m Charlie.
 
-<!---
-Ph0enixxx/Ph0enixxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quant trader & engineer building reliable trading systems in crypto and prediction markets.
+
+Focus: detecting anomalous trading and informed capital.
+
+Market structure, backend systems, reverse-engineering incentives.
+
